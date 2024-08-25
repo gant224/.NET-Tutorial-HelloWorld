@@ -1,0 +1,14 @@
+/Users/gabbyanthony/Desktop/The Ohio State University 🌰🤍- course work /AU24/ACCTMIS 4630/MyConsole App/MyConsole App/bin/Debug/net8.0/MyConsole App
+/Users/gabbyanthony/Desktop/The Ohio State University 🌰🤍- course work /AU24/ACCTMIS 4630/MyConsole App/MyConsole App/bin/Debug/net8.0/MyConsole App.deps.json
+/Users/gabbyanthony/Desktop/The Ohio State University 🌰🤍- course work /AU24/ACCTMIS 4630/MyConsole App/MyConsole App/bin/Debug/net8.0/MyConsole App.runtimeconfig.json
+/Users/gabbyanthony/Desktop/The Ohio State University 🌰🤍- course work /AU24/ACCTMIS 4630/MyConsole App/MyConsole App/bin/Debug/net8.0/MyConsole App.dll
+/Users/gabbyanthony/Desktop/The Ohio State University 🌰🤍- course work /AU24/ACCTMIS 4630/MyConsole App/MyConsole App/bin/Debug/net8.0/MyConsole App.pdb
+/Users/gabbyanthony/Desktop/The Ohio State University 🌰🤍- course work /AU24/ACCTMIS 4630/MyConsole App/MyConsole App/obj/Debug/net8.0/MyConsole App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabbyanthony/Desktop/The Ohio State University 🌰🤍- course work /AU24/ACCTMIS 4630/MyConsole App/MyConsole App/obj/Debug/net8.0/MyConsole App.AssemblyInfoInputs.cache
+/Users/gabbyanthony/Desktop/The Ohio State University 🌰🤍- course work /AU24/ACCTMIS 4630/MyConsole App/MyConsole App/obj/Debug/net8.0/MyConsole App.AssemblyInfo.cs
+/Users/gabbyanthony/Desktop/The Ohio State University 🌰🤍- course work /AU24/ACCTMIS 4630/MyConsole App/MyConsole App/obj/Debug/net8.0/MyConsole App.csproj.CoreCompileInputs.cache
+/Users/gabbyanthony/Desktop/The Ohio State University 🌰🤍- course work /AU24/ACCTMIS 4630/MyConsole App/MyConsole App/obj/Debug/net8.0/MyConsole App.dll
+/Users/gabbyanthony/Desktop/The Ohio State University 🌰🤍- course work /AU24/ACCTMIS 4630/MyConsole App/MyConsole App/obj/Debug/net8.0/refint/MyConsole App.dll
+/Users/gabbyanthony/Desktop/The Ohio State University 🌰🤍- course work /AU24/ACCTMIS 4630/MyConsole App/MyConsole App/obj/Debug/net8.0/MyConsole App.pdb
+/Users/gabbyanthony/Desktop/The Ohio State University 🌰🤍- course work /AU24/ACCTMIS 4630/MyConsole App/MyConsole App/obj/Debug/net8.0/MyConsole App.genruntimeconfig.cache
+/Users/gabbyanthony/Desktop/The Ohio State University 🌰🤍- course work /AU24/ACCTMIS 4630/MyConsole App/MyConsole App/obj/Debug/net8.0/ref/MyConsole App.dll
